@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Itqan_Task">
+	<test name="User_Registeration">
+		<classes>
+		
+			<class name="Tests.Fill_Register_Data" /> 
+		</classes>
+	</test>
+</suite> 

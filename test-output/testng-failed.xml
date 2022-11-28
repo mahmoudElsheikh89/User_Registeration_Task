@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Itqan_Task]">
+  <test thread-count="5" name="User_Registeration(failed)">
+    <classes>
+      <class name="Tests.Fill_Register_Data">
+        <methods>
+          <include name="stopDriver"/>
+          <include name="userRegister"/>
+          <include name="startDriver"/>
+        </methods>
+      </class> <!-- Tests.Fill_Register_Data -->
+    </classes>
+  </test> <!-- User_Registeration(failed) -->
+</suite> <!-- Failed suite [Itqan_Task] -->
